@@ -1,0 +1,21 @@
+{
+ "background": {"scripts": ["instachrome.js"]},
+ "browser_action": {
+ "default_icon": "icon.png",
+ "default_title": "Instachrome"
+ },
+ "name": "Instapaper",
+ "description": "Extension for Sending Articles to Instapaper That Doesn't Suck Ass ",
+ "homepage_url": "http://www.github.com/myusuf3/instachrome",
+ "icons": {
+     "16": "icon.png",
+     "48": "icon.png",
+     "128": "icon.png" },
+ "permissions": [
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+ ],
+ "version": "1.0",
+ "manifest_version": 2
+}
