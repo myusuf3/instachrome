@@ -1,3 +1,4 @@
+
 # Instachorme
 
 This is basically a simple Instapaper extension that doesn't suck ass and actually works. This also allows me to get rid this lame ass bookmarklet that is sitting in my hidden bookmarks bar.
